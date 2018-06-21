@@ -1,0 +1,21 @@
+.blue {
+	width: 60px;
+	height: 60px;
+	padding-left: 0;
+	padding-right: 0 ;
+	border: 0 ;
+	margin: 50px;
+	background-color: blue;
+}
+
+
+/*length x width*/
+.red {
+	width: 250px;
+	height: 200px;
+	padding-left:0;
+	padding-right:0;
+	border: 1px solid black; 
+	margin:50px;
+	background-color: red;
+}
